@@ -19,4 +19,6 @@ You will see a QR code printed in your terminal, like this:
 
 Enter a URL to generate QR Code: https://www.bioxsystems.com/
 
-Generated QR Code: Image of the generated QR Code.
+Generated QR Code:
+
+![Generated Image of the QR Code](images/qr_img.png)

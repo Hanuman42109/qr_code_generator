@@ -7,11 +7,15 @@ and view a QR code directly in the terminal as ASCII characters.
 - qrcode library
 
 # Setup
+```bash
 pip install -r requirements.txt
+```
 
 # Usage
-Run the script using: python qr_generator.py
-
+Run the script using:
+```bash
+python qr_generator.py
+```
 Then enter the URL or text when prompted.
 
 # Output
